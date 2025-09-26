@@ -3,11 +3,9 @@
 BugMap is a personal knowledge base where I document my learning and practice: 
 Labs from **Web Pentest Course (CyberJutsu)**, **PortSwigger Academy**, **TryHackMe**; and interesting **bug bounty reports** I've read.
 
--📌 Mindmaps for different vulnerability classess
-
--🛠️ Tools and scripts that make testing faster
-
--📑 References to writeups, reports and learning resources
+- 📌 Mindmaps for different vulnerability classess
+- 🛠️ Tools and scripts that make testing faster
+- 📑 References to writeups, reports and learning resources
 
 ## 📂 Structure
 ```
