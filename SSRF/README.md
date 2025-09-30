@@ -1,4 +1,4 @@
-# SSRF - Server-Side Request Forgery
+# Server-Side Request Forgery
 ![Info](../images/SSRF_BUGCHECK.png)
 
 ## 🗺️ Mindmap
