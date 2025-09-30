@@ -10,15 +10,15 @@ Labs from **Web Pentest Course (CyberJutsu)**, **PortSwigger Academy**, **TryHac
 ## 📂 Structure
 ```
 Vulnerability_Name/
-|___README.md  # contains links to mindmaps, reports and notes
+|___BUGCHECK.md  # contains links to mindmaps, reports and notes
 |___Tools/     # scripts or commands that I made during practice
 ```
 
 ## 🚀 Goals
-- Build a clear roadmap for each vulnerability
-- Keep track of useful tools and payload
-- Learn from real-case bug bounty reports
-- Make the bug hunting journey easier to follow
+- Build a clear roadmap for each vulnerability.
+- Keep track of useful tools and payload.
+- Learn from real-case bug bounty reports.
+- Make the bug hunting journey easier to follow.
 
 ## 📜 License
 This repository is for **educational purposes only**.  
