@@ -10,7 +10,7 @@ Labs from **Web Pentest Course (CyberJutsu)**, **PortSwigger Academy**, **TryHac
 ## 📂 Structure
 ```
 Vulnerability_Name/
-|___BUGCHECK.md  # contains links to mindmaps, reports and notes
+|___README.md  # contains links to mindmaps, reports and notes
 |___Tools/     # scripts or commands that I made during practice
 ```
 
