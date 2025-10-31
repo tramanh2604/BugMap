@@ -3,7 +3,7 @@
 A comprehensive collection of practical SQL injection payloads, techniques, and methodologies.
 
 ## 🗺️ Detailed Cheatsheet
-- [Detailed Cheatsheet on Notion]([https://www.notion.so/SQL-Injection-BugMap-284991c9962d8083bd05f27826a0fcd5](https://www.notion.so/SQL-Injection-BugMap-284991c9962d8083bd05f27826a0fcd5?source=copy_link))
+- [Detailed Cheatsheet on Notion](https://www.notion.so/SQL-Injection-BugMap-284991c9962d8083bd05f27826a0fcd5)
 
 ## 📌 Useful Reports
 1. [Summary SQLi From Owasp](https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/10-Business_Logic_Testing/09-Test_Upload_of_Malicious_Files)
